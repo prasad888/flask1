@@ -1,4 +1,9 @@
 # flask1
+change the file flask.py 
+create template folder and move file in form and users folder
+
+im mysql crate table database and add endpoint and db name username password in flask.py file
+
 
 in flask.py 
 app.run(host='0.0.0.0',port=5000,debug=True,use_reloader=True)
